@@ -8,6 +8,7 @@
 
 ## Demo
 Watch the example application on [YouTube](https://www.youtube.com/watch?v=EiVWoVq2tuk)
+![image](showcase.png)
 
 ## Installation
 
