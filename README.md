@@ -14,7 +14,7 @@ $ cd loki-nativescript-adapter-example
 $ npm install
 $ cd app && npm install && cd ..
 $ tns platform add ios
-$ tns livesync ios --emulator --watch
+$ tns run ios --emulator
 ```
 
 To go deeper in [Loki](http://lokijs.org) have a look at the [documentation](http://lokijs.org/#/docs). If you want to contribute to the adapter take [this way to the repository](https://github.com/TobiasHennig/loki-nativescript-adapter).
